@@ -117,7 +117,23 @@
 </head>
 
 <body>
+    <script>
+        async function hash(text) {
+            const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+            return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, "0")).join("");
+        }
 
+        (async () => {
+            const input = prompt("Password:");
+            const hashed = await hash(input);
+
+            const correct = "2f09362da55051d7e4e6e204d5049a34c53c9a798d22ddb07e6cb144e9f92e0b  -";
+
+            if (hashed !== correct) {
+                document.body.innerHTML = "Access denied";
+            }
+        })();
+    </script>
 
     <input id="search" placeholder="検索">
 
