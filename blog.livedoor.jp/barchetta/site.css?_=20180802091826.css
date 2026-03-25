@@ -1,0 +1,310 @@
+@charset "EUC-JP";
+
+/*
+-----------------------------------------------------
+livedoor Blog CSS
+FileName:	Citrus
+Version:	2006.07.25
+-----------------------------------------------------
+*/
+	body{
+		color:#000;
+		background:#fff;
+		margin:0;
+		font-family: verdana ,arial ,sans-serif;
+		word-break:break-all;
+	}
+	h1,h2,h3{margin:0;padding:0;}
+
+	a{color:#666;text-decoration:underline;}
+	a:link{}
+	a:visited{}
+	a:active{}
+	a:hover{color:#999;text-decoration:none;}
+
+	#header{}
+	#header td{
+		color:#444;
+		font-size:x-small;
+		text-align:right;
+	}
+	#header a{}
+
+	#container{}
+	#banner,#subbanner{
+		background:#ffaf32;
+		border-bottom:1px solid #bd8023;
+		color:#fff;
+	}
+	#banner a{color:#fff;text-decoration:none;}
+	#banner a:hover{color:#999;text-decoration:none;}
+
+	.blogtitle{
+		font-size:24px;
+		font-weight:bold;
+		text-decoration:none;
+		padding:40px 0 5px 20px;
+	}
+	.description{
+		font-size:x-small;
+		font-weight:bold;
+		padding:0 0 5px 20px;
+		border-bottom:1px solid #fff;
+	}
+	#blogcontainer{
+		padding:15px 0 0 20px;
+	}
+	#content{
+		width:100%;
+		float:right;
+		margin-left: -240px;
+	}
+	#blog{
+		overflow:hidden;
+		text-align:left;
+		margin:0 20px 0 240px;
+	}
+	#links{
+		float:left;
+		width:200px;
+	}
+	#footer{}
+	#outfooter{}
+/*-----------------------------------------------------*/
+	.datetop{}
+	.datebody{
+		background:#ffec93;
+		border-right:1px solid #d1d1d1;
+		border-bottom:1px solid #d1d1d1;
+		}
+	.date{
+		font-size:x-small;
+		font-weight:bold;
+		text-align:left;
+		padding:5px 0 3px 10px;
+	}
+	.dateend{}
+	.fullbody{}
+	.blogbodytop{}
+	.blogbodybottom{}
+	.blogbody{
+		font-size:x-small;
+		line-height:135%;
+		margin:10px 15px 0 15px;
+	}
+	.title{
+		color:#ef8b02;
+		font-size:x-small;
+		font-weight:bold;
+		padding:0 0 2px 5px;
+		border-bottom:1px solid #ef8b02;
+	}
+	.main,.mainmore{
+		color:#403a3b;
+		font-size:x-small;
+		margin:5px 0;
+	}
+	blockquote{
+		margin:10px 10px 10px 40px;
+		color:#399;
+	}
+	.pict{margin:0 5px 5px 0;}
+	.continues{padding:20px 20px 5px;}
+	a.continues{color:#4aac63;}
+	.posted{
+		color:#999;
+		font-size:x-small;
+		text-align:right;
+		margin:0 0 25px 0;
+		padding:0;
+	}
+	.menu{
+		color:#999;
+		font-size:x-small;
+		text-align:right;
+	}
+	.posted a,.menu a{font-weight:bold;}
+
+	.nextpage{
+		font-size:x-small;
+		font-weight:bold;
+		text-align:right;
+		padding:10px;
+	}
+	.nextpage a{}
+	#categorytitlebody{padding:0 15px 15px;text-align:center;}
+	#categorytitle{font-size:x-small;font-weight:bold;}
+/*-----------------------------------------------------*/
+	.comblogbodybottom{}
+	#contentcommentbottom{}
+	.formbodybottom{}
+	#articletop{}
+	#articlebody{}
+	#articlebottom{}
+	.trackbackurltop{}
+
+	.trackbackurlttl,.trackbackhead,.commenthead,.takecommenthead{
+		color:#ef8b02;
+		font-size:x-small;
+		font-weight:bold;
+		padding:0 0 2px 5px;
+		border-bottom:1px solid #ef8b02;
+	}
+	.trackbackurlbody,#trackback,#comment,#takecomment{
+		font-size:x-small;
+		margin:20px 15px 15px 15px;
+	}
+
+	.trackbackurl{padding:20px 75px 20px 25px;}
+	.trackbackurl table{}
+	input.trackbackbox{width:350px;}
+	.trackbackurlbottom{}
+
+	a.posttitle{}
+	#trackbackbody,#commentbody,#takecommentbody{
+		font-size:x-small;
+		padding:0 5px 0 15px;
+	}
+	.trackbackttl,.commentttl{
+		font-size:x-small;
+		margin:20px 0;
+		padding:0;
+	}
+	.trackbacktext,.commenttext{
+		line-height:125%;
+		padding:5px;
+	}
+	#formbody{
+		text-algin:center;
+		padding:3px 30px 10px;
+		line-height:130%;
+	}
+	.form{
+		font-size:x-small;
+		margin-top:25px;
+	}
+	.form th{
+		padding:2px;
+		text-align:right;
+	}
+	.form td{padding:2px;}
+
+	#error{padding:10px;font-size:x-small;line-height:125%;font-weight:bold;}
+	#error span{font-weight:normal;}
+
+	#author{width:200px;}
+	#email{width:200px;}
+	#url{width:200px;}
+	#text{width:380px;height:200px;}
+/*-----------------------------------------------------*/
+	.sidetitlebody{
+		background:#ffec93;
+		border:solid #ffaf32;
+		border-width:1px 1px 0;
+	}
+	.sidetitle{
+		font-size:x-small;
+		font-weight:bold;
+		letter-spacing:5px;
+		text-align:center;
+		padding:5px;
+	}
+	.sidetitle a{color:#000;}
+	.sidetop{}
+	.side{
+		font-size:x-small;
+		line-height:135%;
+		text-align:left;
+		padding:5px 10px;
+		margin-bottom:10px;
+		border:solid #ffaf32;
+		border-width:0 1px 1px;
+	}
+	.side a{}
+	.sidebody{margin-bottom:5px;}
+	.sidebottom{margin-bottom:15px;}
+/*-----------------------------------------------------*/
+	.calendarheadbody{
+		text-align:center;
+		margin:0 auto 10px;
+	}
+	.calendarhead{
+		font-size:x-small;
+		font-weight:bold;
+		padding:2px;
+	}
+	.calendarhead a{}
+	.caltop{}
+	.calbody{padding-bottom:15px;}
+	.calbody{text-align:center;}
+	.calendartable{}
+	.caltbl{border:1px solid #ffaf32;width:200px;margin:0 auto 15px;}
+	.caltblwkbg{}
+	.calendarwd{background:#ffaf32;padding:2px;}
+	.caltblwk{}
+	.caltblwk td{
+		padding:3px 2px;
+		font-size:x-small;
+		text-align:center;
+	}
+	.calendarweek{font-size:x-small;}
+	.weekday,.sun,.sat{}
+	.calendardbg{border-top:1px solid #ffaf32;background:#ffec93;}
+	.caltblday{margin:0 auto;}
+	.caltblday td{
+		padding:3px 2px;
+		font-size:x-small;
+		text-align:center;
+	}
+	.calendar{}
+	.calendard{border-top:1px solid #ffaf32;empty-cells:show;}
+	.caltblday a{color:#000;}
+	.calon{}
+	.caloff{}
+	.even{}
+	.odd{}
+	.calbottom{}
+/*-----------------------------------------------------*/
+	.pagetop{font-size:x-small;text-align:right;margin:25px;}
+	.photo{text-align:center;}
+	.nickname{color:#ef8b02;font-size:x-small;font-weight:bold;margin:10px 0;}
+	.message{font-size:x-small;}
+
+	.quotetable{background:#000;width:170px;}
+	.quote{color:#000;font-size:x-small;padding:1px;background:#fff;}
+
+	.blogtimes{margin:0 0 10px 0;text-align:center;}
+	input.sf{width:115px;margin-right:1px;}
+
+	.sfbtn{}
+	.moblogbody,.linkme,.skypeme{text-align:center;}
+	.afbody{text-align:center;padding-bottom:10px;}
+	.afbody img{margin-bottom:3px;}
+	.profbody{}
+	.mysite{}
+	.newslist{padding-right:10px;}
+
+	.elsehead{
+		padding-top:6px;
+		text-align:center;
+	}
+	.elsebody{text-align:center;}
+	.elsebottom{padding-bottom:10px;}
+	.elsebody a{}
+
+	.checkers{padding-bottom:10px;width:117px;font-size:x-small;text-align:left;margin:0 auto;}
+	.reader{padding-bottom:20px;width:117px;font-size:x-small;text-align:left;margin:0 auto;}
+	.powered{padding-bottom:10px;}
+	.syndicate{font-size:x-small;text-align:center;}
+/*-----------------------------------------------------*/
+	#ad{
+		width:400px;
+		padding:20px 0 20px 15px;
+		text-align:center;
+	}
+	body.ad{background:#fff;}
+
+	a.adtitle{font-weight:bold;text-decoration:underline;}
+	a.addescription{color:black;text-decoration:none;}
+	a.adurl{color:blue;text-decoration:none;}
+	a.adld{text-decoration:underline;}

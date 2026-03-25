@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://blog.livedoor.jp/barchetta/">
+<title>航海日誌 - 日々</title>
+<link>http://blog.livedoor.jp/barchetta/</link>
+<description>
+</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.livedoor.com/?v=2.0" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50864380.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50640851.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/25876893.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/19409.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/19421.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/19423.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/19429.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/14423.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/14415.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/14432.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/10717.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50864380.html">
+<title>花のある生活</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50864380.html</link>
+<description>今日は切り花も買ってみた。
+
+いつも花のある生活、だといいんですが、まだ無理かなあ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-07-02T20:44:10+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/8/7/871bafec.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/8/7/871bafec-s.jpg" width="160" height="213" border="0" alt="871bafec.jpg" hspace="5" class="pict" align="left" /></a>今日は切り花も買ってみた。<br>
+<br>
+いつも花のある生活、だといいんですが、まだ無理かなあ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50640851.html">
+<title>花をいける</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50640851.html</link>
+<description>きれいなバラをいただきました。
+
+部屋もきれいにしないとね。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2006-09-26T00:40:33+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/7/d/7d5d21cc.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/7/d/7d5d21cc-s.jpg" width="160" height="213" border="0" alt="7d5d21cc.jpg" hspace="5" class="pict" align="left" /></a>きれいなバラをいただきました。<br>
+<br>
+部屋もきれいにしないとね。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/25876893.html">
+<title>プラス10cm</title>
+<link>http://blog.livedoor.jp/barchetta/archives/25876893.html</link>
+<description>サンダルをはいておでかけ。
+ヒールがとても高いというほどではないが、底が厚めなので、10cm超の上乗せ。
+
+プラス10cmとなると、視界がちょっと違って感じる。
+結構気分いいかも。
+
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-06-20T23:21:48+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[サンダルをはいておでかけ。<br>
+ヒールがとても高いというほどではないが、底が厚めなので、10cm超の上乗せ。<br>
+<br>
+プラス10cmとなると、視界がちょっと違って感じる。<br>
+結構気分いいかも。<br>
+<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/19409.html">
+<title>年末の買い物</title>
+<link>http://blog.livedoor.jp/barchetta/archives/19409.html</link>
+<description>漂白剤など消耗品のまとめ買い。
+『向田邦子の遺言』『ケータイを持ったサル』を買い、雑貨を見て歩いて入浴剤を買って、スタバで休憩。
+
+食料品を細々と買って帰る。
+久々にサンペリグリノに巡りあったので、寒くなってからは飲んでいないのだけれど、とりあえず2本入手...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-22T23:08:27+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[漂白剤など消耗品のまとめ買い。<br>
+『向田邦子の遺言』『ケータイを持ったサル』を買い、雑貨を見て歩いて入浴剤を買って、スタバで休憩。<br>
+<br>
+食料品を細々と買って帰る。<br>
+久々にサンペリグリノに巡りあったので、寒くなってからは飲んでいないのだけれど、とりあえず2本入手。<br>
+<br>
+今日の晩ごはん: あじのみりんぼし、小松菜と納豆、辛ポッポ、エビス ;-)]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/19421.html">
+<title>うろうろ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/19421.html</link>
+<description>昨日は一日うちにこもってたのでうろうろする。
+1/3くらい立ち読みした酒井順子『少子』がおもしろかった。
+
+大西ユカリと新世界の『六曲入り』『レッドdeハッスル』を購入。
+
+無印で浄水シャワーを購入。
+やっぱり気分いいかも。
+
+今日の晩ごはん: あさりとベーコン...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-21T23:16:22+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[昨日は一日うちにこもってたのでうろうろする。<br>
+1/3くらい立ち読みした<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062104164/249-8055903-5022729">酒井順子『少子』</a>がおもしろかった。<br>
+<br>
+大西ユカリと新世界の『六曲入り』『レッドdeハッスル』を購入。<br>
+<br>
+無印で浄水シャワーを購入。<br>
+やっぱり気分いいかも。<br>
+<br>
+今日の晩ごはん: あさりとベーコンと白菜のスープ、いかすみパン、ミニカレードーナッツ]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/19423.html">
+<title>大掃除</title>
+<link>http://blog.livedoor.jp/barchetta/archives/19423.html</link>
+<description>夕方まで寝てしまったけれど、気合を入れて大掃除。
+というほどのものではないけれど。
+がんばって床を磨いた。
+
+北の国から「遺言」を見てしまう。
+唐十郎がいい感じ。
+
+今日の晩ごはん: キムチチゲ</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-20T00:20:07+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[夕方まで寝てしまったけれど、気合を入れて大掃除。<br>
+というほどのものではないけれど。<br>
+がんばって床を磨いた。<br>
+<br>
+北の国から「遺言」を見てしまう。<br>
+唐十郎がいい感じ。<br>
+<br>
+今日の晩ごはん: キムチチゲ]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/19429.html">
+<title>雪！</title>
+<link>http://blog.livedoor.jp/barchetta/archives/19429.html</link>
+<description>朝、出かける時は白いものがちらついてる感じだったのが、山の上はあっという間に吹雪状態。
+
+ゆうべから寒いと思ったけど、この時期にこの寒さ。
+うーん、どうなるのだろう。
+
+早々に帰宅して、うちにこもる。
+
+今日の晩ごはん: ベーコンと白菜のスープ、バジルパン...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-19T23:26:05+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[朝、出かける時は白いものがちらついてる感じだったのが、山の上はあっという間に吹雪状態。<br>
+<br>
+ゆうべから寒いと思ったけど、この時期にこの寒さ。<br>
+うーん、どうなるのだろう。<br>
+<br>
+早々に帰宅して、うちにこもる。<br>
+<br>
+今日の晩ごはん: ベーコンと白菜のスープ、バジルパン、豆腐サラダ]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/14423.html">
+<title>Synchronicity</title>
+<link>http://blog.livedoor.jp/barchetta/archives/14423.html</link>
+<description>今日はPoliceのSynchronicityをお供に出かける。
+暖かく、良い天気で、なかなか素敵。
+Sting はやっぱりかっこいい。
+
+今日の晩ごはん: カルビパン、レッドキドニースープ、トマトと水菜のサラダ
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-16T23:05:51+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[今日はPoliceのSynchronicityをお供に出かける。<br>
+暖かく、良い天気で、なかなか素敵。<br>
+Sting はやっぱりかっこいい。<br>
+<br>
+今日の晩ごはん: カルビパン、レッドキドニースープ、トマトと水菜のサラダ<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/14415.html">
+<title>だらだら</title>
+<link>http://blog.livedoor.jp/barchetta/archives/14415.html</link>
+<description>仕事をしないといけないのですが、なんとなくのんびり1日を過ごす。
+
+今日の晩ごはん: 豚肉とブロッコリの炒め物、水菜なっとう</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-15T22:57:02+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[仕事をしないといけないのですが、なんとなくのんびり1日を過ごす。<br>
+<br>
+今日の晩ごはん: 豚肉とブロッコリの炒め物、水菜なっとう]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/14432.html">
+<title>街あるき</title>
+<link>http://blog.livedoor.jp/barchetta/archives/14432.html</link>
+<description>チェックアウト時間ぎりぎりまでホテルでゆっくりし、買い物にでかける。
+
+正福という定食屋さんで鰯梅肉フライ定食を食べる。
+味も良かったが、カウンターのお兄さんの働きぶりがてきぱきと、かつ折り目正しく気持ち良かった。
+
+みやまを思い出した。久々に行ってみた...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-14T23:14:51+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[チェックアウト時間ぎりぎりまでホテルでゆっくりし、買い物にでかける。<br>
+<br>
+正福という定食屋さんで鰯梅肉フライ定食を食べる。<br>
+味も良かったが、カウンターのお兄さんの働きぶりがてきぱきと、かつ折り目正しく気持ち良かった。<br>
+<br>
+みやまを思い出した。久々に行ってみたいなあ。<br>
+<br>
+本屋巡りの後、Z-sideで食料品を買う。<br>
+パスタとクスクスとモニーニのオリーブオイルなど。<br>
+乾麺はたくさんあるのですが、安かったので。<br>
+<br>
+今日の晩ごはん: 康楽でちゃんぽん]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/10717.html">
+<title>日記はじめました</title>
+<link>http://blog.livedoor.jp/barchetta/archives/10717.html</link>
+<description>blogどんなもんかしら、とはじめてみました。
+ぼちぼち、書いてみます。
+
+急に寒くなって冬眠状態。眠くて仕方ありません。
+あまりに寒くて、注文したファンヒーターが届くのが待ち遠しい。
+
+今日の晩ごはん: そうめんポルトガルソース</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-09T22:05:24+09:00</dc:date>
+<dc:subject>日々</dc:subject>
+<content:encoded><![CDATA[blogどんなもんかしら、とはじめてみました。<br>
+ぼちぼち、書いてみます。<br>
+<br>
+急に寒くなって冬眠状態。眠くて仕方ありません。<br>
+あまりに寒くて、注文したファンヒーターが届くのが待ち遠しい。<br>
+<br>
+今日の晩ごはん: そうめんポルトガルソース]]>
+</content:encoded>
+</item>
+
+</rdf:RDF>

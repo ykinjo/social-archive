@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://blog.livedoor.jp/barchetta/">
+<title>航海日誌 - 小舟</title>
+<link>http://blog.livedoor.jp/barchetta/</link>
+<description>
+</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.livedoor.com/?v=2.0" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50234976.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50224013.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50170362.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/28933693.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/28929494.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/26616906.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/26513763.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/26514423.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/11337.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50234976.html">
+<title>帰還</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50234976.html</link>
+<description>金曜の夕方作業終了の連絡があり、バルケッタを引き取りに行ってきました。1時間くらい近所をドライブして、買い物して帰宅。
+
+エンジンマウント交換、ショック交換、ブレーキローター・パッド、ブレーキマスター交換と足回り総とっかえで、乗り心地がしゃっきっと生まれか...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-11-26T22:56:06+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[金曜の夕方作業終了の連絡があり、バルケッタを引き取りに行ってきました。1時間くらい近所をドライブして、買い物して帰宅。<br>
+<br>
+エンジンマウント交換、ショック交換、ブレーキローター・パッド、ブレーキマスター交換と足回り総とっかえで、乗り心地がしゃっきっと生まれかわりました。車体のやれた感じもなくなったようが気がする。<br>
+<br>
+工場で取り外した大量の部品一式を見せてもらって説明を聞いたのですが、写真を撮るの忘れました。<br>
+<br>
+予想外の作業は発生しなかったので、車検の経費は見積もり通り。<br>
+安くはないですが、想定の範囲内で、一安心。<br>
+リサイクル料14,400円は納得いかないですが。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50224013.html">
+<title>車検</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50224013.html</link>
+<description>私がオーナーになって二度目の車検がやってきました。
+今日、工場へバルケッタを持って行きました。
+
+バルケッタ車検中の代車は、SUZUKIのアルトくんです。
+予定外の作業が発生しなければ1週間くらいのおつきあいの予定。
+
+ぴかぴかの新車で、まだ2,000kmちょっとしか...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-11-21T15:15:09+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/7/c/7ceffe7a.JPG" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/7/c/7ceffe7a-s.JPG" width="160" height="213" border="0" alt="7ceffe7a.JPG" hspace="5" class="pict" align="left" /></a>私がオーナーになって二度目の車検がやってきました。<br>
+今日、工場へバルケッタを持って行きました。<br>
+<br>
+バルケッタ車検中の代車は、SUZUKIのアルトくんです。<br>
+予定外の作業が発生しなければ1週間くらいのおつきあいの予定。<br>
+<br>
+ぴかぴかの新車で、まだ2,000kmちょっとしか走ってません。<br>
+ゴーカートみたいです。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50170362.html">
+<title>夢</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50170362.html</link>
+<description>ステアリングオイルの点検をして「うわ、ぜんぜんないやん！」と言ってる夢を見たので、点検をする。適量でした。
+大丈夫だとは思ってたけど、一応ね。
+
+そのちょっと前、駐車する時に、ステアリングをめいっぱい切ってバックしたら、嫌な音がしたので、そんな夢を見たん...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-10-23T17:23:37+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[ステアリングオイルの点検をして「うわ、ぜんぜんないやん！」と言ってる夢を見たので、点検をする。適量でした。<br>
+大丈夫だとは思ってたけど、一応ね。<br>
+<br>
+そのちょっと前、駐車する時に、ステアリングをめいっぱい切ってバックしたら、嫌な音がしたので、そんな夢を見たんだと思う。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/28933693.html">
+<title>バッテリー交換</title>
+<link>http://blog.livedoor.jp/barchetta/archives/28933693.html</link>
+<description>納車の時に新品のバッテリーに交換してもらって、3年半を越えました。
+最近のバッテリーは高性能化のせいで、突然死するとの話なので、ぼちぼち交換しないと思ってました。
+
+Boschにしようかと思ったのですが、他にパーツを買い込んだりしたので、安いブライトスターに。...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-07-25T14:51:04+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/0/6/06aa6f5a.JPG" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/0/6/06aa6f5a-s.JPG" width="160" height="120" border="0" alt="06aa6f5a.JPG" hspace="5" class="pict" align="left"/></a>納車の時に新品のバッテリーに交換してもらって、3年半を越えました。<br>
+最近のバッテリーは高性能化のせいで、突然死するとの話なので、ぼちぼち交換しないと思ってました。<br>
+<br>
+Boschにしようかと思ったのですが、他にパーツを買い込んだりしたので、安いブライトスターに。送料込みで、7,640円。交換はディーラー工場にお願いして、2,100円。バッテリーに手袋がついてて、自分で交換せーってことかと思いましたが、古いバッテリーの処分とかを考えると、お願いした方が無難よねってことで。<br>
+<br>
+Boschのバッテリーより小さいようで、エンジンルームに少し空きができた感じ。<br>
+インジケータがついてるバッテリなのですが、ステーでちょうど隠れてます。<br>
+<br>
+走行距離は59,872km。<br>
+<br>
+新しいバッテリーを見ようとボンネットをあけてみたら、クーラントがMinより下になってることに気がついた。補充でいいのかな?<br>
+<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/28929494.html">
+<title>ドライブ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/28929494.html</link>
+<description>洗車してドライブに出かける。
+クリアがぼろぼろなので、薄汚れているとほんとに悲しくなっちゃうのです。
+
+写真だとあんまりわかんないけど、かなりきてます。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-07-23T22:36:04+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/b/d/bd43e784.JPG" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/b/d/bd43e784-s.JPG" width="160" height="213" border="0" alt="bd43e784.JPG" hspace="5" class="pict" align="left"/></a>洗車してドライブに出かける。<br>
+クリアがぼろぼろなので、薄汚れているとほんとに悲しくなっちゃうのです。<br>
+<br>
+写真だとあんまりわかんないけど、かなりきてます。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/26616906.html">
+<title>アイドリングトラブル！</title>
+<link>http://blog.livedoor.jp/barchetta/archives/26616906.html</link>
+<description>今朝は雨がぱらついてたので、窓を閉めてクーラーをかけ、クーラーもちゃんときくし快調、と思いつつ、職場の駐車場に差しかかったあたりで異変が。
+
+エンジンの音のわりに、パワーが出ない。
+よっこいせという感じで坂をのぼったが、エンジンがもの凄い音を出している。...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-06-28T21:56:37+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[今朝は雨がぱらついてたので、窓を閉めてクーラーをかけ、クーラーもちゃんときくし快調、と思いつつ、職場の駐車場に差しかかったあたりで異変が。<br>
+<br>
+エンジンの音のわりに、パワーが出ない。<br>
+よっこいせという感じで坂をのぼったが、エンジンがもの凄い音を出している。<br>
+そのまま駐車するのが怖くなって回転計を見ると、アクセルを戻しても2500あたりで止まって下がらない。<br>
+<br>
+いったんエンジンを切り、かけ直したけど、状態かわらず。<br>
+水温は100度くらい。<br>
+警告灯は点いていない。<br>
+他に異音もない。<br>
+<br>
+ので、ひとまず駐車してお仕事に。<br>
+<br>
+こんな時のML頼みで昼休みに「教えてメール」を書くと、さっそく回答が。<br>
+スロットルワイヤーの確認を、とのことで、終業後、チェックに。<br>
+<br>
+ボンネットを開けて30秒で解決。<br>
+スロットルワイヤーについているダストブーツという部品が破損して、ワイヤーが戻るのを妨げていたみたい。<br>
+<br>
+一応、ディーラー工場でグリスアップ、チェックをしてもらって帰ってくる。<br>
+問題のダストブーツはテープで固定してもらいました。やれやれ。<br>
+<br>
+いつもより早めに帰宅したけど、しばらく疲れて呆然としてました。<br>
+トラブルでしか、経験値があがらないのだろうかと思う今日この頃。<br>
+<br>
+こんなアクシデントでも一つ収穫がありました。<br>
+ディーラーへの距離を確認しようと、職場からのルートマップをMap Fanで検索したら、近道がわかりました。<br>
+<br>
+ていうか、今までかなり遠回りしてました。とほほ。<br>
+<br>
+<br>
+<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/26513763.html">
+<title>タッチアップ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/26513763.html</link>
+<description>クリア剥げは着々と進行中。
+
+洗車も病状を悪化させそうで怖いけど、クリアが剥げ塗装がむき出しになっている部分の汚れはそれ以上に悪そうなので、昨日洗車した。
+
+バルケッタ用のタッチアップペイントはずーっと前に手に入れてたのですが、前のオーナーが色を塗った部...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-06-27T20:49:33+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[クリア剥げは着々と進行中。<br>
+<br>
+洗車も病状を悪化させそうで怖いけど、クリアが剥げ塗装がむき出しになっている部分の汚れはそれ以上に悪そうなので、昨日洗車した。<br>
+<br>
+バルケッタ用のタッチアップペイントはずーっと前に手に入れてたのですが、前のオーナーが色を塗った部分を見ると、やっぱり目立つので今まで使ったことがなかった。<br>
+もうあちこちぼろぼろなので、飛び石など完全に塗装がはげているところに塗っておく事にした。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/26514423.html">
+<title>FLMC セール</title>
+<link>http://blog.livedoor.jp/barchetta/archives/26514423.html</link>
+<description>夏のセールはいつから始まるんだろうと、ホームページをのぞいてみたら、24日開始だった。見たのが夜中だったので、午前中に電話する。
+
+ブレーキーローター、パッド、ブレーキマスターを予約。
+現在、在庫確認の連絡待ち。
+
+ショックはKONIしかなくて残念。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2005-06-25T20:59:25+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[夏のセールはいつから始まるんだろうと、ホームページをのぞいてみたら、24日開始だった。見たのが夜中だったので、午前中に電話する。<br>
+<br>
+ブレーキーローター、パッド、ブレーキマスターを予約。<br>
+現在、在庫確認の連絡待ち。<br>
+<br>
+ショックはKONIしかなくて残念。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/11337.html">
+<title>デート</title>
+<link>http://blog.livedoor.jp/barchetta/archives/11337.html</link>
+<description>今朝、まだねぼけているところに車検終了の連絡を受けた。すぐ引き取りに行きたいところだけれど、仕事もあるしそうはいかない。
+
+といったんあきらめかけたのですが、週末は忙しい、週明けも忙しい、ことを考え、結局夕方から引き取りに出かけた。ようするに行きたかった...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-10T23:54:07+09:00</dc:date>
+<dc:subject>小舟</dc:subject>
+<content:encoded><![CDATA[今朝、まだねぼけているところに車検終了の連絡を受けた。すぐ引き取りに行きたいところだけれど、仕事もあるしそうはいかない。<br>
+<br>
+といったんあきらめかけたのですが、週末は忙しい、週明けも忙しい、ことを考え、結局夕方から引き取りに出かけた。ようするに行きたかったんですね。<br>
+<br>
+閉店より少し遅れてお店に到着し（すいません）、運転席にすわって思う。たった1週間、でも1週間、やっぱり寂しかったのよ。<br>
+<br>
+代車のミニカくんのような実用車をぶんぶん廻すのも好きなのだけれど、やっぱりバルはとびきり楽しい。1週間ぶりのデートを楽しんで帰ってきました。]]>
+</content:encoded>
+</item>
+
+</rdf:RDF>

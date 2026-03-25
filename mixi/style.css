@@ -1,0 +1,27 @@
+
+body{
+font-family:sans-serif;
+max-width:900px;
+margin:auto;
+line-height:1.7;
+}
+
+img{
+max-width:100%;
+}
+
+.photo{
+width:200px;
+display:inline-block;
+margin:10px;
+}
+
+.photo img{
+width:200px;
+height:auto;
+}
+
+a{
+text-decoration:none;
+color:#0366d6;
+}

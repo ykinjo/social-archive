@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://blog.livedoor.jp/barchetta/">
+<title>航海日誌 - 旅</title>
+<link>http://blog.livedoor.jp/barchetta/</link>
+<description>
+</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.livedoor.com/?v=2.0" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50854362.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831085.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831060.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831041.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831028.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831019.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831011.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50831006.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830992.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830994.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830986.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830979.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830975.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830970.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50830956.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50854362.html">
+<title>空弁　柿千の柿の葉寿司</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50854362.html</link>
+<description>伊丹で買ったやつ。
+柿の葉寿司といえば、私の定番は「ゐざさ」ですが、柿千に初挑戦。
+
+柿の葉の緑があざやかだったけど、香りはあんまりしなかった。
+魚の味もあっさりめ。
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-06-11T20:46:24+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/b/f/bfb961a2.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/b/f/bfb961a2-s.jpg" width="160" height="120" border="0" alt="bfb961a2.jpg" hspace="5" class="pict" align="left" /></a>伊丹で買ったやつ。<br>
+柿の葉寿司といえば、私の定番は「ゐざさ」ですが、柿千に初挑戦。<br>
+<br>
+柿の葉の緑があざやかだったけど、香りはあんまりしなかった。<br>
+魚の味もあっさりめ。<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831085.html">
+<title>うなぎ丼</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831085.html</link>
+<description>宮崎であこがれのうなぎ丼を食べる。
+開店10分後に到着するも、1時間半待ちました。
+
+でも全然気にならないくらい、うなぎも、ご飯も、呉汁も、ぬたもおいしかった～。
+
+お店は「入船」
+http://www.u-irifune.com/</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-05-04T13:08:21+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/6/7/67f360be.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/6/7/67f360be-s.jpg" width="160" height="120" border="0" alt="67f360be.jpg" hspace="5" class="pict" align="left" /></a>宮崎であこがれのうなぎ丼を食べる。<br>
+開店10分後に到着するも、1時間半待ちました。<br>
+<br>
+でも全然気にならないくらい、うなぎも、ご飯も、呉汁も、ぬたもおいしかった～。<br>
+<br>
+お店は「入船」<br>
+<a href="http://www.u-irifune.com/">http://www.u-irifune.com/</a>]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831060.html">
+<title>もつ鍋</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831060.html</link>
+<description>天神でお買い物した後、もつ鍋を食べに行く。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-30T19:00:59+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/c/5/c5e6953a.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/c/5/c5e6953a-s.jpg" width="160" height="120" border="0" alt="c5e6953a.jpg" hspace="5" class="pict" align="left" /></a>天神でお買い物した後、もつ鍋を食べに行く。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831041.html">
+<title>京都みやげ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831041.html</link>
+<description>自分へのおみやげ、末富の桜餅と草餅。
+日本茶がないので、お茶は東方美人。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-23T23:20:32+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/e/4/e41adb6d.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/e/4/e41adb6d-s.jpg" width="160" height="120" border="0" alt="e41adb6d.jpg" hspace="5" class="pict" align="left" /></a>自分へのおみやげ、末富の桜餅と草餅。<br>
+日本茶がないので、お茶は東方美人。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831028.html">
+<title>五味子茶</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831028.html</link>
+<description>仁寺洞の伝統茶店で。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-19T11:04:09+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/3/2/323dec76.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/3/2/323dec76-s.jpg" width="160" height="120" border="0" alt="323dec76.jpg" hspace="5" class="pict" align="left" /></a>仁寺洞の伝統茶店で。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831019.html">
+<title>ソウルの夜</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831019.html</link>
+<description>マッコリにはありつけなかったけど、屋台でスンデとキムチチジミをつまんだ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-18T23:04:15+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/6/c/6ca43b18.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/6/c/6ca43b18-s.jpg" width="160" height="120" border="0" alt="6ca43b18.jpg" hspace="5" class="pict" align="left" /></a>マッコリにはありつけなかったけど、屋台でスンデとキムチチジミをつまんだ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831011.html">
+<title>ふたたびピビンパ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831011.html</link>
+<description>帰りの便、もちろんピビンパを選ぶ。
+今度のは生野菜じゃなく、ゆで野菜。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-18T09:59:04+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/c/6/c6a2a24c.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/c/6/c6a2a24c-s.jpg" width="160" height="120" border="0" alt="c6a2a24c.jpg" hspace="5" class="pict" align="left" /></a>帰りの便、もちろんピビンパを選ぶ。<br>
+今度のは生野菜じゃなく、ゆで野菜。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50831006.html">
+<title>オーブン料理</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50831006.html</link>
+<description>モーテル生活最後の夜に、初のオーブン料理。
+トマトオムレツ？
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-17T17:12:01+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/2/b/2b472ab5.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/2/b/2b472ab5-s.jpg" width="160" height="120" border="0" alt="2b472ab5.jpg" hspace="5" class="pict" align="left" /></a>モーテル生活最後の夜に、初のオーブン料理。<br>
+トマトオムレツ？<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830992.html">
+<title>サンドイッチランチ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830992.html</link>
+<description>パン屋さんのサンドイッチ。
+安くておいしい。
+小さめのがあったので、そっちで良かったかも。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-13T09:51:50+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/5/6/564bf8f7.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/5/6/564bf8f7-s.jpg" width="160" height="120" border="0" alt="564bf8f7.jpg" hspace="5" class="pict" align="left" /></a>パン屋さんのサンドイッチ。<br>
+安くておいしい。<br>
+小さめのがあったので、そっちで良かったかも。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830994.html">
+<title>ハイファイブ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830994.html</link>
+<description>パン屋さんの甘もの。
+
+意外にもジンジャークッキーは甘さ控えめでおいしかった。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-13T09:16:04+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/b/1/b1a3e775.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/b/1/b1a3e775-s.jpg" width="160" height="120" border="0" alt="b1a3e775.jpg" hspace="5" class="pict" align="left" /></a>パン屋さんの甘もの。<br>
+<br>
+意外にもジンジャークッキーは甘さ控えめでおいしかった。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830986.html">
+<title>ハンギ料理</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830986.html</link>
+<description>マオリ族の集会所マラエを訪問して、ハンギ料理をいただく。
+スモークがきいてて、素朴な味。
+
+ちょっと欲張って取り過ぎました。
+でも全部食べたけど。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-12T14:25:35+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/3/e/3e3be6a0.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/3/e/3e3be6a0-s.jpg" width="160" height="120" border="0" alt="3e3be6a0.jpg" hspace="5" class="pict" align="left" /></a>マオリ族の集会所マラエを訪問して、ハンギ料理をいただく。<br>
+スモークがきいてて、素朴な味。<br>
+<br>
+ちょっと欲張って取り過ぎました。<br>
+でも全部食べたけど。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830979.html">
+<title>鍋ラーメン</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830979.html</link>
+<description>辛ラーメンが売ってたのでつい買ってしまったが、適当な器がなくて、鍋ラーメン。
+かなし～。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-11T15:25:11+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/d/c/dc7ef5ac.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/d/c/dc7ef5ac-s.jpg" width="160" height="120" border="0" alt="dc7ef5ac.jpg" hspace="5" class="pict" align="left" /></a>辛ラーメンが売ってたのでつい買ってしまったが、適当な器がなくて、鍋ラーメン。<br>
+かなし～。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830975.html">
+<title>カフェの昼下がり</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830975.html</link>
+<description>日陰は涼しい。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-09T12:50:16+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/f/9/f95b26f9.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/f/9/f95b26f9-s.jpg" width="160" height="120" border="0" alt="f95b26f9.jpg" hspace="5" class="pict" align="left" /></a>日陰は涼しい。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830970.html">
+<title>ふたたび街のカフェ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830970.html</link>
+<description>アイスコーヒーにこりて、手堅く、マッキャートとビスコッティを注文。
+
+別のカフェです。
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-06T11:24:12+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/7/6/76ee0aef.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/7/6/76ee0aef-s.jpg" width="160" height="120" border="0" alt="76ee0aef.jpg" hspace="5" class="pict" align="left" /></a>アイスコーヒーにこりて、手堅く、マッキャートとビスコッティを注文。<br>
+<br>
+別のカフェです。<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50830956.html">
+<title>お弁当</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50830956.html</link>
+<description>ホームステイ生活になり、お弁当を自分で作りました。
+
+パンをレンジで解凍して、スプレッドを塗って、野菜とサラミを適当にはさんだだけですが、食べ過ぎ防止にいいかも。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-03-05T07:49:36+09:00</dc:date>
+<dc:subject>旅</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/e/d/edefb9c5.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/e/d/edefb9c5-s.jpg" width="160" height="120" border="0" alt="edefb9c5.jpg" hspace="5" class="pict" align="left" /></a>ホームステイ生活になり、お弁当を自分で作りました。<br>
+<br>
+パンをレンジで解凍して、スプレッドを塗って、野菜とサラミを適当にはさんだだけですが、食べ過ぎ防止にいいかも。]]>
+</content:encoded>
+</item>
+
+</rdf:RDF>

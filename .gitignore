@@ -1,0 +1,16 @@
+# twitter 除外
+twitter/assets/
+twitter/data/
+twitter/input/
+twitter/Your archive.html
+
+# mixi除外 
+mixi/diary 
+mixi/mixi.jp_cookies.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://blog.livedoor.jp/barchetta/">
+<title>航海日誌 - 食</title>
+<link>http://blog.livedoor.jp/barchetta/</link>
+<description>
+</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.livedoor.com/?v=2.0" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929727.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929719.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929716.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929713.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929712.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929702.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929695.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929692.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929669.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50929651.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50919814.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50917945.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50917941.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50917939.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/50908743.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929727.html">
+<title>ツナとキャベツのスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929727.html</link>
+<description>キャベツとツナとししとうピーマン。
+スパゲティーニが残り少なくて40g。
+足りないってことはないなあ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-09T20:40:46+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/d/1/d1aeabab.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/d/1/d1aeabab-s.jpg" width="160" height="120" border="0" alt="d1aeabab.jpg" hspace="5" class="pict" align="left" /></a>キャベツとツナとししとうピーマン。<br>
+スパゲティーニが残り少なくて40g。<br>
+足りないってことはないなあ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929719.html">
+<title>肉うどん</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929719.html</link>
+<description>冷凍肉うどん。ニラとしめじ追加。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-06T21:24:21+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/2/b/2bf33bc4.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/2/b/2bf33bc4-s.jpg" width="160" height="120" border="0" alt="2bf33bc4.jpg" hspace="5" class="pict" align="left" /></a>冷凍肉うどん。ニラとしめじ追加。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929716.html">
+<title>そーめんちゃんぷる</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929716.html</link>
+<description>ツナ、ゴーヤー、ししとうピーマン。
+そーめんちゃんぷるは、なかなか上手くできないけど、今日はわりと上手くできた。
+
+油たっぷりがいいのかな？</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-06T13:42:10+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/1/5/15dda593.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/1/5/15dda593-s.jpg" width="160" height="120" border="0" alt="15dda593.jpg" hspace="5" class="pict" align="left" /></a>ツナ、ゴーヤー、ししとうピーマン。<br>
+そーめんちゃんぷるは、なかなか上手くできないけど、今日はわりと上手くできた。<br>
+<br>
+油たっぷりがいいのかな？]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929713.html">
+<title>ししとうピーマンのスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929713.html</link>
+<description>ししとうピーマン、薄揚げ、しめじ。
+ししとうピーマンはとても香りがいい。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-05T19:47:42+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/2/2/22cd25d3.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/2/2/22cd25d3-s.jpg" width="160" height="120" border="0" alt="22cd25d3.jpg" hspace="5" class="pict" align="left" /></a>ししとうピーマン、薄揚げ、しめじ。<br>
+ししとうピーマンはとても香りがいい。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929712.html">
+<title>アスパラガスとじゃがいものスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929712.html</link>
+<description>アスパラガス、じゃがいも、ささ身、しめじ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-04T20:11:13+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/e/e/ee31e5b9.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/e/e/ee31e5b9-s.jpg" width="160" height="120" border="0" alt="ee31e5b9.jpg" hspace="5" class="pict" align="left" /></a>アスパラガス、じゃがいも、ささ身、しめじ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929702.html">
+<title>納豆のスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929702.html</link>
+<description>納豆、小松菜、薄揚げ、しめじ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-03T19:45:31+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/1/b/1b30b8b2.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/1/b/1b30b8b2-s.jpg" width="160" height="120" border="0" alt="1b30b8b2.jpg" hspace="5" class="pict" align="left" /></a>納豆、小松菜、薄揚げ、しめじ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929695.html">
+<title>初物</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929695.html</link>
+<description>今シーズン初めて食べた柿。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-02T20:50:03+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/7/e/7ea220ce.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/7/e/7ea220ce-s.jpg" width="160" height="120" border="0" alt="7ea220ce.jpg" hspace="5" class="pict" align="left" /></a>今シーズン初めて食べた柿。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929692.html">
+<title>秋鮭のクリームパスタ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929692.html</link>
+<description>久々に豆乳のクリームパスタ。
+玉ねぎと冷凍しめじ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-02T20:36:26+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/1/b/1b7af87f.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/1/b/1b7af87f-s.jpg" width="160" height="120" border="0" alt="1b7af87f.jpg" hspace="5" class="pict" align="left" /></a>久々に豆乳のクリームパスタ。<br>
+玉ねぎと冷凍しめじ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929669.html">
+<title>デザート</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929669.html</link>
+<description>キハチのマロンマフィン。
+イートインのマフィンセット、今度食べてみよ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-10-01T21:23:31+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/2/f/2f8087b0.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/2/f/2f8087b0-s.jpg" width="160" height="120" border="0" alt="2f8087b0.jpg" hspace="5" class="pict" align="left" /></a>キハチのマロンマフィン。<br>
+イートインのマフィンセット、今度食べてみよ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50929651.html">
+<title>ツナと小松菜のスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50929651.html</link>
+<description>ツナと小松菜とたまねぎ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-27T20:10:18+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/d/2/d26758d6.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/d/2/d26758d6-s.jpg" width="160" height="120" border="0" alt="d26758d6.jpg" hspace="5" class="pict" align="left" /></a>ツナと小松菜とたまねぎ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50919814.html">
+<title>カレーうどん</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50919814.html</link>
+<description>冷凍うどんに、鶏ささ身、小松菜、みょうがを入れた。
+カレーにみょうが、いけました。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-26T19:17:31+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/c/b/cb8f7f14.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/c/b/cb8f7f14-s.jpg" width="160" height="120" border="0" alt="cb8f7f14.jpg" hspace="5" class="pict" align="left" /></a>冷凍うどんに、鶏ささ身、小松菜、みょうがを入れた。<br>
+カレーにみょうが、いけました。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50917945.html">
+<title>茶そば</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50917945.html</link>
+<description>冷凍の茶そば。
+野菜がなんにもないので、わかめを入れてみた。
+
+出汁には柚子胡椒を入れてさっぱり。
+</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-19T19:09:27+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/5/4/5429762e.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/5/4/5429762e-s.jpg" width="160" height="120" border="0" alt="5429762e.jpg" hspace="5" class="pict" align="left" /></a>冷凍の茶そば。<br>
+野菜がなんにもないので、わかめを入れてみた。<br>
+<br>
+出汁には柚子胡椒を入れてさっぱり。<br>
+]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50917941.html">
+<title>じゃがいもとアスパラガスのスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50917941.html</link>
+<description>じゃがいもとアスパラガスと玉ねぎと鶏のささ身。
+
+じゃがいもとアスパラガス、いい組み合わせ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-17T19:32:42+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/9/d/9d3caf73.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/9/d/9d3caf73-s.jpg" width="160" height="107" border="0" alt="9d3caf73.jpg" hspace="5" class="pict" align="left" /></a>じゃがいもとアスパラガスと玉ねぎと鶏のささ身。<br>
+<br>
+じゃがいもとアスパラガス、いい組み合わせ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50917939.html">
+<title>ツナとエリンギと小松菜のスパゲティーニ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50917939.html</link>
+<description>ツナとエリンギと小松菜と玉ねぎ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-10T19:27:54+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/7/a/7a9bda26.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/7/a/7a9bda26-s.jpg" width="160" height="120" border="0" alt="7a9bda26.jpg" hspace="5" class="pict" align="left" /></a>ツナとエリンギと小松菜と玉ねぎ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/50908743.html">
+<title>玄米、ぶりの照り焼き、冬瓜とパンチェッタのスープ、小松菜と納豆</title>
+<link>http://blog.livedoor.jp/barchetta/archives/50908743.html</link>
+<description>１合ちょっと残ってた玄米を炊いたので、和食風。
+
+ぶりの照り焼きは、かき醤油とバルサミコのたれ。
+スープは下ゆでした冬瓜とパンチェッタを水から煮込んだ。
+納豆は塩揉みした小松菜とあえて、納豆のたれとからしを入れた。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2007-09-08T20:05:07+09:00</dc:date>
+<dc:subject>食</dc:subject>
+<content:encoded><![CDATA[<a href="http://livedoor.blogimg.jp/barchetta/imgs/9/e/9e253b4c.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/barchetta/imgs/9/e/9e253b4c-s.jpg" width="160" height="120" border="0" alt="9e253b4c.jpg" hspace="5" class="pict" align="left" /></a>１合ちょっと残ってた玄米を炊いたので、和食風。<br>
+<br>
+ぶりの照り焼きは、かき醤油とバルサミコのたれ。<br>
+スープは下ゆでした冬瓜とパンチェッタを水から煮込んだ。<br>
+納豆は塩揉みした小松菜とあえて、納豆のたれとからしを入れた。]]>
+</content:encoded>
+</item>
+
+</rdf:RDF>

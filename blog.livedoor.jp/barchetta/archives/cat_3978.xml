@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://blog.livedoor.jp/barchetta/">
+<title>航海日誌 - シネマ</title>
+<link>http://blog.livedoor.jp/barchetta/</link>
+<description>
+</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.livedoor.com/?v=2.0" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/46280.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/46267.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/46259.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/barchetta/archives/19438.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/46280.html">
+<title>アラベスク</title>
+<link>http://blog.livedoor.jp/barchetta/archives/46280.html</link>
+<description>昨日のシャレードですっかりケーリー・グラントのファンになって、今日は放映を待ち構えて観た。
+
+ちょっとインディ・ジョーンズっぽかったですが、あんなにかっこいい言語学者はいてないでしょう。
+ソフィア・ローレンが妙な味ですが、かわいかった。
+悪人がどことなく...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2004-01-15T02:21:24+09:00</dc:date>
+<dc:subject>シネマ</dc:subject>
+<content:encoded><![CDATA[昨日のシャレードですっかりケーリー・グラントのファンになって、今日は放映を待ち構えて観た。<br>
+<br>
+ちょっとインディ・ジョーンズっぽかったですが、あんなにかっこいい言語学者はいてないでしょう。<br>
+ソフィア・ローレンが妙な味ですが、かわいかった。<br>
+悪人がどことなくのんびりしているのが、最近の映画と違うところかな。<br>
+<br>
+ロンドンが舞台ですが、クラブマンやら、ヤスミンの赤いベンツとか、車がやっぱり素敵。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/46267.html">
+<title>Charade</title>
+<link>http://blog.livedoor.jp/barchetta/archives/46267.html</link>
+<description>ラストシーンのケーリー・グラントの変な顔にやられてしまいました。あんなかっこいい役人がいるわけないんですけど...
+
+音楽はマンシーニ、パリが舞台で街を走る車がかわいい。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2004-01-13T23:06:14+09:00</dc:date>
+<dc:subject>シネマ</dc:subject>
+<content:encoded><![CDATA[ラストシーンのケーリー・グラントの変な顔にやられてしまいました。あんなかっこいい役人がいるわけないんですけど...<br>
+<br>
+音楽はマンシーニ、パリが舞台で街を走る車がかわいい。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/46259.html">
+<title>My Own Private Idaho</title>
+<link>http://blog.livedoor.jp/barchetta/archives/46259.html</link>
+<description>せつない映画でした。
+リバー・フェニックスの透明感は、演技という感じではなくて秀逸。
+キアヌ・リーブスはまあまあ。
+
+最後にスコットを拾ったのは誰なのか、劇場の大画面ならわかったのかなあ。</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2004-01-10T23:00:16+09:00</dc:date>
+<dc:subject>シネマ</dc:subject>
+<content:encoded><![CDATA[せつない映画でした。<br>
+リバー・フェニックスの透明感は、演技という感じではなくて秀逸。<br>
+キアヌ・リーブスはまあまあ。<br>
+<br>
+最後にスコットを拾ったのは誰なのか、劇場の大画面ならわかったのかなあ。]]>
+</content:encoded>
+</item>
+<item rdf:about="http://blog.livedoor.jp/barchetta/archives/19438.html">
+<title>アタックナンバーハーフ</title>
+<link>http://blog.livedoor.jp/barchetta/archives/19438.html</link>
+<description>原題が&quot;Satree-Lex&quot;で鋼鉄の処女だっけ、チームの愛称。アメリカ映画だったとは。
+
+実話にもとづいてるそうなのですが、なかなか良い青春映画でした。とにかく明るいところがかわいい。
+
+エンドロールに登場した本物が劇中の人物より濃かったりして笑ってしまった。
+
+...</description>
+<dc:creator>barchetta</dc:creator>
+<dc:date>2003-12-22T02:32:58+09:00</dc:date>
+<dc:subject>シネマ</dc:subject>
+<content:encoded><![CDATA[原題が"Satree-Lex"で鋼鉄の処女だっけ、チームの愛称。アメリカ映画だったとは。<br>
+<br>
+実話にもとづいてるそうなのですが、なかなか良い青春映画でした。とにかく明るいところがかわいい。<br>
+<br>
+エンドロールに登場した本物が劇中の人物より濃かったりして笑ってしまった。<br>
+<br>
+監督が日本の女優さんに似てるんだけど、名前がわからない。]]>
+</content:encoded>
+</item>
+
+</rdf:RDF>

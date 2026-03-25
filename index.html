@@ -1,0 +1,134 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <!-- スマホ対応 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Social Media Archive</title>
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background: #fafafa;
+            line-height: 1.6;
+        }
+
+        /* スマホでは余白を減らす */
+        @media (min-width:700px) {
+            body {
+                padding: 40px;
+            }
+        }
+
+        h1 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+        .month {
+            font-size: 20px;
+            margin-top: 28px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 4px;
+        }
+
+        .post {
+            margin: 8px 0;
+        }
+
+        /* 検索窓 */
+        input {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            box-sizing: border-box;
+            position: sticky;
+            top: 0;
+        }
+
+        /* リンク */
+        a {
+            text-decoration: none;
+            color: #0366d6;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* 件数表示 */
+        .count {
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        /* トップリンク */
+        ul {
+            padding-left: 18px;
+            margin-bottom: 30px;
+        }
+
+        li {
+            margin: 6px 0;
+        }
+
+        /* 検索結果カード */
+        .result {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .result:hover {
+            background: #f3f3f3;
+        }
+
+        .result-title {
+            font-weight: bold;
+        }
+
+        .result-meta {
+            font-size: 13px;
+            color: #666;
+        }
+
+        @media (max-width:700px) {
+            li {
+                margin: 6px 0;
+            }
+
+            li a {
+                padding: 6px 0;
+            }
+
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <input id="search" placeholder="検索">
+
+    <ul>
+        <li><a href="./blog.livedoor.jp/index.html">Livedoor Blog</a></li>
+        <li><a href="./mixi/index.html">Mixi</a></li>
+        <li><a href="./twitter/output/index.html">Twitter</a></li>
+    </ul>
+
+    <div id="results"></div>
+
+    <script src="search_data.js"></script>
+    <script src="search.js"></script>
+
+</body>
+
+</html>

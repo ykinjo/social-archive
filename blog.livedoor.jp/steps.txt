@@ -1,0 +1,6 @@
+アーカイブ作成手順
+
+1. backup_livedoor_blog.py を実行して、livedoor Blogのhtmlバックアップを作成
+2. download_images.py を実行して、livedoor Blogの画像をダウンロード
+3. fix_livedoor_images.py を実行して、livedoor Blogのhtml内の画像URLをローカルのものに置換
+4. build_index.py を実行して、livedoor Blogのhtmlをインデックス化
