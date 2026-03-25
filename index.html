@@ -116,7 +116,7 @@
 
 </head>
 
-<body>
+<body style="display:none;">
     <script>
         async function hash(text) {
             const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
