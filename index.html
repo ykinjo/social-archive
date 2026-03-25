@@ -129,8 +129,11 @@
 
             const correct = "2f09362da55051d7e4e6e204d5049a34c53c9a798d22ddb07e6cb144e9f92e0b  -";
 
-            if (hashed !== correct) {
+            if (hashed === correct) {
+                document.body.style.display = "block";
+            } else {
                 document.body.innerHTML = "Access denied";
+                document.body.style.display = "block";
             }
         })();
     </script>
