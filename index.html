@@ -134,7 +134,9 @@
             } else {
                 document.body.innerHTML = "Access denied";
                 document.body.style.display = "block";
+                throw new Error("STOP");
             }
+            document.body.style.display = "block";
         })();
     </script>
 
