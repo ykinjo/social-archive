@@ -160,17 +160,14 @@
             // ★ここが重要（順序）
             await loadScript("./search_data.js");
             await loadScript("./search.js");
-            console.log("after load:", window.SEARCH_DATA);
-            if (!window.SEARCH_DATA) {
-                console.error("SEARCH_DATA not ready");
-                return;
-            }
 
-            // ★初期化を強制
+            console.log("initSearch:", typeof initSearch);
+
             if (typeof initSearch === "function") {
                 initSearch();
+            } else {
+                console.error("initSearch not found");
             }
-
         })();
     </script>
 
