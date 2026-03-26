@@ -150,7 +150,10 @@
 
             // ★ここが重要（順序）
             await loadScript("./search_data.js");
-            await loadScript("./search.js");
+            if (!window.SEARCH_DATA) {
+                console.error("SEARCH_DATA not ready");
+                return;
+            }
 
             // ★初期化を強制
             if (typeof initSearch === "function") {
