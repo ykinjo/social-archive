@@ -117,42 +117,51 @@
 </head>
 
 <body style="display:none;">
-    <script>
-        async function hash(text) {
-            const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
-            return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, "0")).join("");
-        }
 
-        (async () => {
-            const input = prompt("Password:");
-            const hashed = await hash(input);
-
-            const correct = "2f09362da55051d7e4e6e204d5049a34c53c9a798d22ddb07e6cb144e9f92e0b  -";
-
-            if (hashed === correct) {
-                document.body.style.display = "block";
-            } else {
-                document.body.innerHTML = "Access denied";
-                document.body.style.display = "block";
-                throw new Error("STOP");
+    <body style="display:none;">
+        <script>
+            function loadScript(src) {
+                return new Promise((resolve, reject) => {
+                    const s = document.createElement("script");
+                    s.src = src;
+                    s.onload = resolve;
+                    s.onerror = reject;
+                    document.body.appendChild(s);
+                });
             }
-            document.body.style.display = "block";
-        })();
-    </script>
 
-    <input id="search" placeholder="検索">
+            (async () => {
+                const input = prompt("Password:");
+                const hashed = await crypto.subtle.digest(
+                    "SHA-256",
+                    new TextEncoder().encode(input)
+                );
 
-    <ul>
-        <li><a href="./blog.livedoor.jp/index.html">Livedoor Blog</a></li>
-        <li><a href="./mixi/index.html">Mixi</a></li>
-        <li><a href="./twitter/output/index.html">Twitter</a></li>
-    </ul>
+                const hex = [...new Uint8Array(hashed)]
+                    .map(b => b.toString(16).padStart(2, "0"))
+                    .join("");
 
-    <div id="results"></div>
+                if (hex !== "ハッシュ値") {
+                    document.body.innerHTML = "Access denied";
+                    return;
+                }
 
-    <script src="./search_data.js"></script>
-    <script defer src="./search.js"></script>
+                // ✅ 順番を保証
+                await loadScript("./search_data.js");
+                await loadScript("./search.js");
+            })();
+        </script>
 
-</body>
+        <input id="search" placeholder="検索">
+
+        <ul>
+            <li><a href="./blog.livedoor.jp/index.html">Livedoor Blog</a></li>
+            <li><a href="./mixi/index.html">Mixi</a></li>
+            <li><a href="./twitter/output/index.html">Twitter</a></li>
+        </ul>
+
+        <div id="results"></div>
+
+    </body>
 
 </html>
