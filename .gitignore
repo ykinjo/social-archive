@@ -1,3 +1,6 @@
+# old files
+*.bak
+
 # twitter 除外
 twitter/assets/
 twitter/data/
